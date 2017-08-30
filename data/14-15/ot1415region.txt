@@ -1,0 +1,5 @@
+"tribmarsh"	"sum(dur)"	"sum(Count)"	"cpue"
+"Alviso Marsh"	15464	112	0.00724262803931712
+"Napa River"	3153.85	5	0.0015853639202879
+"Petaluma River"	3100	11	0.00354838709677419
+"Chipps Island"	56693	241	0.00425096572769125

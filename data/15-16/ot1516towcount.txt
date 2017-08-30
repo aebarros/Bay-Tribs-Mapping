@@ -1,0 +1,10 @@
+"tribmarsh"	"length(TowNumber)"
+"Alviso Marsh"	154
+"Central San Francisco Bay"	3
+"Gallinas"	2
+"Lower South Bay"	17
+"Napa River"	76
+"Petaluma River"	64
+"San Pablo Bay"	17
+"Sonoma River"	54
+"Chipps Island"	1004

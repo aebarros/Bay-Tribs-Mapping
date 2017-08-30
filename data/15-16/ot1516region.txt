@@ -1,0 +1,6 @@
+"tribmarsh"	"sum(dur)"	"sum(Count)"	"cpue"
+"Alviso Marsh"	21592	10	0.000463134494257132
+"Central San Francisco Bay"	330	1	0.00303030303030303
+"Napa River"	6012.5	3	0.000498960498960499
+"San Pablo Bay"	1150	1	0.000869565217391304
+"Chipps Island"	47351	18	0.000380139806973454

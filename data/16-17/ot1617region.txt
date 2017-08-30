@@ -1,0 +1,5 @@
+"tribmarsh"	"sum(dur, na.rm = T)"	"sum(Count)"	"cpue"
+"Alviso Marsh"	12035	139	0.0115496468633153
+"Lower South Bay"	1340	1	0.000746268656716418
+"Sonoma River"	2613.4	3	0.00114792989974746
+"Chipps Island"	447883	74	0.000165221720851204

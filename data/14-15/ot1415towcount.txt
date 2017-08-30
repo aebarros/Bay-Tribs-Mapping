@@ -1,0 +1,9 @@
+"tribmarsh"	"length(TowNumber)"
+"Alviso Marsh"	169
+"Lower South Bay"	2
+"na"	2
+"Napa River"	43
+"Petaluma River"	36
+"Sonoma River"	23
+"unkown"	4
+"Chipps Island"	952

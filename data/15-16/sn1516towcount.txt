@@ -1,0 +1,12 @@
+"tribmarsh"	"length(Tow)"
+"Artesian Slough"	3
+"Central San Francisco Bay"	3
+"Coyote Creek"	14
+"Gallinas"	1
+"Napa River"	265
+"Petaluma River"	95
+"San Pablo Bay"	124
+"Sonoma River"	60
+"Delta"	492
+"Mokelumne"	19
+"Suisun Bay"	229

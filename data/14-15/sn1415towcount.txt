@@ -1,0 +1,12 @@
+"tribmarsh"	"length(Tow)"
+"Alviso Slough"	7
+"Artesian Slough"	17
+"Coyote Creek"	17
+"Lower South Bay"	8
+"Napa River"	127
+"Petaluma River"	25
+"San Pablo Bay"	15
+"Sonoma River"	24
+"Delta"	499
+"Mokelumne"	22
+"Suisun Bay"	246
